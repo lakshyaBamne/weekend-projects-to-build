@@ -1,0 +1,18 @@
+# ignore folders by names
+__pycache__/
+.__pycache__/
+.env/
+.venv/
+venv/
+.vscode/
+
+# ignore files by extensions
+*.txt
+*.x
+*.exe
+*.out
+*.log
+*.logs
+
+# files to not ignore
+!requirements.txt
